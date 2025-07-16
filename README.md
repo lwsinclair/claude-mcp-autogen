@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/apatilgtn-claude-mcp-autogen-badge.png)](https://mseep.ai/app/apatilgtn-claude-mcp-autogen)
+
 # Claude-Inspired MCP System with AutoGen
 
 ## Overview
